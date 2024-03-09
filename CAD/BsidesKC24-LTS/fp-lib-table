@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "BSidesKC24-L2S")(type KiCad)(uri "$(KIPRJMOD)/BSidesKC24-L2S.pretty")(options "")(descr ""))
+)
