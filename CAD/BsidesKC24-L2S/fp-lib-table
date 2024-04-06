@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Graphics")(type "KiCad")(uri "/Users/carlfugate/Documents/GitHub/BsidesKC_2024/CAD/BsidesKC24-LTS/BSidesKC24-L2S.pretty")(options "")(descr ""))
+)
