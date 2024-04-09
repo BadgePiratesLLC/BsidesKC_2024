@@ -1,4 +1,4 @@
-23367880502625249
+23311523525913410
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94786,848 +94786,617 @@ Varistor VF
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 5.5uH_coil
 
 
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 5.5uH_coil_F.Silk
 
 
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 100uf_CP_Pad1.50x2.35mm
 Tantalum Capacitor SMD Kemet-B (3528-21 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
 capacitor tantalum
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 2032 Through Hold Holder
 
 
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 AA
 AA Battery Holder, SMD
 
 0
 8
 4
-_BadgePirates
+_BP-Footprints
 ACASA1002S1002P100
 ACAS0612
 Resistor Network
 0
 8
 8
-_BadgePirates
+_BP-Footprints
 AMAMW
 
 
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 BATHLD006SMT - CR2450
 BAT-HLD-006-SMT-1
 Undefined or Miscellaneous
 0
 3
 2
-_BadgePirates
+_BP-Footprints
 Badgelife-SAOv169-BADGE_Side_F.SLK
 Through hole straight IDC box header, 2x03, 2.54mm pitch, double rows
 Through hole IDC box header THT 2x03 2.54mm double row
 0
 6
 6
-_BadgePirates
+_BP-Footprints
 Badgelife-SAOv169-SAO_Side_B.SLK
 Through hole straight IDC box header, 2x03, 2.54mm pitch, double rows
 Through hole IDC box header THT 2x03 2.54mm double row
 0
 6
 6
-_BadgePirates
+_BP-Footprints
 Battery - 14500
 AA Battery Holder, SMD
 
 0
 4
 2
-_BadgePirates
+_BP-Footprints
 BatteryHolder_LINX_BAT-HLD-006-SMT
 2450 Battery Holder
 Undefined or Miscellaneous
 0
 3
 3
-_BadgePirates
+_BP-Footprints
 BatteryHolder_LINX_BAT-HLD-012-SMT
 SMT battery holder for CR1216/1220/1225, https://linxtechnologies.com/wp/wp-content/uploads/bat-hld-012-smt.pdf
 battery holder coin cell cr1216 cr1220 cr1225
 0
 3
 2
-_BadgePirates
+_BP-Footprints
 BatteryHolder_MPD_BC2003_1x2032
 2032 Battery Holder
 BC2003 CR2032 2032 Battery Holder
 0
 3
 2
-_BadgePirates
+_BP-Footprints
 BatteryHolder_MPD_BC2003_1x2032_Fixed
 2032 Battery Holder
 BC2003 CR2032 2032 Battery Holder
 0
 3
 2
-_BadgePirates
+_BP-Footprints
 CD54_IND
 
 
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 CN330N
 Standard SOIC8 pin wo Center Pad
 Standard SOIC8 pin wo Center Pad
 0
 8
 8
-_BadgePirates
+_BP-Footprints
 CR2032 TH Holder
 
 
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 C_0805_2012Metric
 Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
 capacitor
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 ESP-12E
 Wi-Fi Module, http://wiki.ai-thinker.com/_media/esp8266/docs/aithinker_esp_12f_datasheet_en.pdf
 Wi-Fi Module
 0
 22
 22
-_BadgePirates
+_BP-Footprints
 ESP32-S2-WROOM
 ESP32-S2-WROOM and ESP32-S2-WROOM-I: https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf
 ESP32-S2
 0
 51
 43
-_BadgePirates
+_BP-Footprints
 ESP32-S2-WROVER
 ESP32-S2-WROVER and ESP32-S2-WROVER-I: https://www.espressif.com/sites/default/files/documentation/esp32-s2-wrover_esp32-s2-wrover-i_datasheet_en.pdf
 ESP32-S2
 0
 51
 43
-_BadgePirates
+_BP-Footprints
 ESP32-S3-WROOM-1
 ESP32-S3-WROOM-1 is a powerful, generic Wi-Fi + Bluetooth LE MCU modules that have Dual core CPU , a rich set of peripherals, provides acceleration for neural network computing and signal processing workloads. They are an ideal choice for a wide variety of application scenarios related to AI + Internet of Things (AIoT), such as wake word detection and speech commands recognition , face detection and recognition, smart home, smart appliance, smart control panel, smart speaker etc.
 esp32-s3
 0
 49
 41
-_BadgePirates
+_BP-Footprints
+FUET-9032-Buzzer
+
+
+0
+2
+2
+_BP-Footprints
 GT-USB-7002C
 
 
 0
 10
 7
-_BadgePirates
+_BP-Footprints
 Hole_3.5mm
 Mounting Hole 3.5mm
 mounting hole 3.5mm
 0
 1
 0
-_BadgePirates
+_BP-Footprints
 Hole_3mm_lapel_pin
 Lapel Pin 3mm Hole, 5.75 pad
 Lapel Pin 3mm Hole, 5.75 pad
 0
 1
 0
-_BadgePirates
+_BP-Footprints
 Hole_4.5mm
 Mounting Hole 4.5mm
 mounting hole 4.5mm
 0
 1
 0
-_BadgePirates
+_BP-Footprints
 Hole_5.5mm
 Mounting Hole 5.5mm
 mounting hole 5.5mm
 0
 1
 0
-_BadgePirates
+_BP-Footprints
 Keystone-54-MFG
 Through Hole, 1865 Side Clips
 Through Hole, 1865 Side Clips
 0
 3
 1
-_BadgePirates
+_BP-Footprints
 Keystone-1042-0
 18650 Plastic Battery Holder, Surface Mount
 18650 Plastic Battery Holder, Surface Mount
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 LED_0807
 
 
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 LED_1206
 LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 LED
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 LED_COM-11821
 6 pin RGB LED NeoPixel
 6 pin RGB LED NeoPixel
 0
 6
 6
-_BadgePirates
+_BP-Footprints
 LED_D5.0mm
 LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
 LED diameter 5.0mm 2 pins
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 LED_Osram_Lx_P47F_D2mm_ReverseMount_Proper_Mask Only
 Reverse-mount LED, SMD, Mask removed
 LED ReverseMount Reverse
 0
 4
 2
-_BadgePirates
+_BP-Footprints
 LED_Osram_Lx_P47F_D2mm_ReverseMount_WHole
 OSRAM, reverse-mount LED, SMD, With a Hole through to Front
 LED ReverseMount Reverse
 0
 4
 2
-_BadgePirates
+_BP-Footprints
 LED_RGB_1210
 RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
 LED 3227
 0
 4
 4
-_BadgePirates
+_BP-Footprints
 LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
 https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
 LED RGB NeoPixel
 0
 4
 4
-_BadgePirates
+_BP-Footprints
 LTC4054
 constant-voltage linear charger for single cell lithium-ion batteries
 Lipo charger
 0
 5
 5
-_BadgePirates
+_BP-Footprints
 MAX17048_TDFN
 MAX17048_TDFN FOOTPRINT
 DFN 0.5
 0
 9
 9
-_BadgePirates
+_BP-Footprints
 NE555DR
 D (R-PDSO-G8)
 Integrated Circuit
 0
 8
 8
-_BadgePirates
+_BP-Footprints
 NetTie_2
 
 
 0
 2
 2
-_BadgePirates
+_BP-Footprints
+Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal
+Omron FPC connector, 40 top-side contacts, 0.5mm pitch, SMT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-xf2m.pdf
+omron fpc xf2m
+0
+42
+40
+_BP-Footprints
 PJ-320D Headphone
 
 
 0
 4
 4
-_BadgePirates
+_BP-Footprints
 PadHeader_1x02_P2.54mm_Vertical
 Through hole straight pin header, 1x02, 2.54mm pitch, single row
 Through hole pin header THT 1x02 2.54mm single row
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 PanHeader_1x04_P2.54mm_Vertical
 Through hole straight pin header, 1x04, 2.54mm pitch, single row
 Through hole pin header THT 1x04 2.54mm single row
 0
 4
 4
-_BadgePirates
+_BP-Footprints
 PinHeader_1x02_P2.54mm_Vertical
 Through hole straight pin header, 1x02, 2.54mm pitch, single row
 Through hole pin header THT 1x02 2.54mm single row
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 PinHeader_2x03_P2.54mm_Vertical
 Through hole straight pin header, 2x03, 2.54mm pitch, double rows
 Through hole pin header THT 2x03 2.54mm double row
 0
 6
 6
-_BadgePirates
+_BP-Footprints
+Proto_TFT
+
+
+0
+18
+14
+_BP-Footprints
 R_1206_3216Metric
 Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 resistor
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 R_Array_Convex_4x0603
 Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)
 resistor array
 0
 8
 8
-_BadgePirates
+_BP-Footprints
 R_Box_L13.0mm_W4.0mm_P9.00mm
 Resistor, Box series, Radial, pin pitch=9.00mm, 2W, length*width=13.0*4.0mm^2, http://www.produktinfo.conrad.com/datenblaetter/425000-449999/443860-da-01-de-METALLBAND_WIDERSTAND_0_1_OHM_5W_5Pr.pdf
 Resistor Box series Radial pin pitch 9.00mm 2W length 13.0mm width 4.0mm
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 RoundDisplay
 
 
 0
 7
 7
-_BadgePirates
+_BP-Footprints
 SF-MICRO-SD
 
 
 0
 12
 12
-_BadgePirates
+_BP-Footprints
+SIQ-02FVS3_Encoder
+
+
+0
+10
+4
+_BP-Footprints
 SMT-JUMPER_2_NC_TRACE_NO-SILK
 
 
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 SMT-JUMPER_2_NO_NO-SILK
 
 
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 SOIC-8-1EP_W3.9mm
 Standard SOIC8 pin with Center Pad
 Standard SOIC8 pin with Center Pad
 0
 9
 9
-_BadgePirates
+_BP-Footprints
 SOIC127P600X175-16N
 SO16
 Integrated Circuit
 0
 16
 16
-_BadgePirates
+_BP-Footprints
 SOT-23
 SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOT TO_SOT_SMD
 0
 3
 3
-_BadgePirates
+_BP-Footprints
 SOT-223
 Standard SOT-223 Footprint
 Standard SOT-223 Footprint
 0
 4
 4
-_BadgePirates
+_BP-Footprints
 SOT-223_2-4_Combined
 Standard SOT-223 Footprint
 Standard SOT-223 Footprint
 0
 4
 3
-_BadgePirates
+_BP-Footprints
 SP4T - CUS-14TB
 
 
 0
 10
 10
-_BadgePirates
+_BP-Footprints
 SSD1306-0.91-OLED-4pin-128x32
 
 
 0
 4
 4
-_BadgePirates
+_BP-Footprints
 SW-SMD_NIDEC_CUS-14TB
 
 
 0
 10
 10
-_BadgePirates
+_BP-Footprints
 SW_PUSH_6mm_H5mm
 tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm
 tact sw push 6mm
 0
 4
 2
-_BadgePirates
+_BP-Footprints
 SW_SPDT_CK-JS102011SAQN
 Sub-miniature slide switch, right-angle, http://www.ckswitches.com/media/1422/js.pdf
 switch spdt
 0
 3
 3
-_BadgePirates
+_BP-Footprints
 SW_SPDT_PCM12
 Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf
 
 0
 7
 3
-_BadgePirates
+_BP-Footprints
 SW_SPST_B3S-1000
 Surface Mount Tactile Switch for High-Density Packaging
 Tactile Switch
 0
 4
 2
-_BadgePirates
+_BP-Footprints
 SW_SPST_TL3305C(small)
 https://www.e-switch.com/system/asset/product_line/data_sheet/213/TL3305.pdf
 TL3305 Series Tact Switch
 0
 4
 2
-_BadgePirates
+_BP-Footprints
 SW_Slide_1P2T_CK_TH
 CuK miniature slide switch, OS series, SPDT, https://www.ckswitches.com/media/1428/os.pdf
 switch SPDT
 0
 3
 3
-_BadgePirates
+_BP-Footprints
 Slot_6x4mm
 Slot Hole 6x4
 Slot Hole 6x4
 0
 1
 0
-_BadgePirates
+_BP-Footprints
 Slot_7x5mm
 Slot Hole 7x5
 Slot Hole 7x5
 0
 1
 0
-_BadgePirates
+_BP-Footprints
 Slot_12x5mm
 Slot Hole 12x5
 Slot Hole 12x5
 0
 1
 0
-_BadgePirates
+_BP-Footprints
 Switch_Tactile_SMD_B3U-1000P-BPVersion
 Switch Tactile SMB with Larger Pads for ease of Solder and Alighnment - https://lcsc.com/product-detail/Tactile-Switches_DGBZ-YTSC005A0152501B_C2689410.html
 Switch Tactile SMB with Larger Pads for ease of Solder and Alighnment
 0
 2
 2
-_BadgePirates
+_BP-Footprints
 TF-104_SDCard
 
 
 0
 10
 9
-_BadgePirates
+_BP-Footprints
 TF_PUSH
 SD Card Holder
 
 0
 13
 10
-_BadgePirates
+_BP-Footprints
 TYPE-C-31-M-14
 Korean Hroparts Elec, Power only USB connector supporting up to 3A
 
 0
 20
 17
-_BadgePirates
+_BP-Footprints
 TestPoint_Pad_D2.0mm x2
 SMD pad as test Point, diameter 2.0mm
 test point SMD pad
 0
 2
 2
-_BadgePirates
+_BP-Footprints
+Threaded_Standoffs
+
+
+0
+1
+1
+_BP-Footprints
 TouchPad_10x10mm
 SMD rectangular pad as TouchPad, square 4.0mm side length
 SMD rectangular pad as TouchPad, square 4.0mm side length
 0
 1
 1
-_BadgePirates
+_BP-Footprints
 TouchPad_B.CU_19
 SMD rectangular pad as test Point, square 4.0mm side length
 test point SMD pad rectangle square
 0
 1
 1
-_BadgePirates
+_BP-Footprints
 TouchPad_F.CU_19
 SMD rectangular pad as test Point, square 4.0mm side length
 test point SMD pad rectangle square
 0
 1
 1
-_BadgePirates
+_BP-Footprints
 USB_A_CNCTech_1001-011-01101_Horizontal
 USB type A Plug, Horizontal, http://cnctech.us/pdfs/1001-011-01101.pdf
 USB-A
 0
 6
 5
-_BadgePirates
+_BP-Footprints
 USB_C_Receptical-Jing
 USB C with Mounting hole - https://www.lcsc.com/product-detail/USB-Connectors_G-Switch-GT-USB-7002C_C5117884.html
 USB C with Mounting hole
 0
 20
 17
-_BadgePirates
+_BP-Footprints
 USB_Micro-B_Wuerth
 USB Micro-B receptacle with Mounting Hole
 usb micro receptacle
 0
 9
 6
-_BadgePirates
+_BP-Footprints
 mouse-bite-2mm-slot
-
-
-0
-0
-0
-_BadgePirates_Logo
-BPSkull_Distressed_B.CU
-
-
-0
-0
-0
-_BadgePirates_Logo
-BPSkull_Distressed_B.SILK
-
-
-0
-0
-0
-_BadgePirates_Logo
-BPSkull_Distressed_F.CU
-
-
-0
-0
-0
-_BadgePirates_Logo
-BPSkull_Distressed_F.Mask
-
-
-0
-0
-0
-_BadgePirates_Logo
-BPSkull_Distressed_F.SLK
-
-
-0
-0
-0
-_BadgePirates_Logo
-BadgePiratesURL_B.CU
-
-
-0
-0
-0
-_BadgePirates_Logo
-BadgePiratesURL_B.SLK
-
-
-0
-0
-0
-_BadgePirates_Logo
-BadgePiratesURL_F.SLK
-
-
-0
-0
-0
-_BadgePirates_Logo
-Example_SponsorLogo
-
-
-0
-0
-0
-_BadgePirates_Logo
-FG_B.Cu
-
-
-0
-0
-0
-_BadgePirates_Logo
-FG_B.SILK
-
-
-0
-0
-0
-_BadgePirates_Logo
-FG_F.CU
-
-
-0
-0
-0
-_BadgePirates_Logo
-FG_F.Mask
-
-
-0
-0
-0
-_BadgePirates_Logo
-FG_F.SLK
-
-
-0
-0
-0
-_BadgePirates_Logo
-F_RoSH
-
-
-0
-0
-0
-_BadgePirates_Logo
-Jiggle_B.Cu
-
-
-0
-0
-0
-_BadgePirates_Logo
-Jiggle_B.SLK
-
-
-0
-0
-0
-_BadgePirates_Logo
-Jiggle_F.SLK
-
-
-0
-0
-0
-_BadgePirates_Logo
-JulieSig
-
-
-0
-0
-0
-_BadgePirates_Logo
-LED_Schematic_B.SLK
-
-
-0
-0
-0
-_BadgePirates_Logo
-LED_Schematic_F.Mask
-
-
-0
-0
-0
-_BadgePirates_Logo
-NG_B.Cu
-
-
-0
-0
-0
-_BadgePirates_Logo
-NG_B.SLK
-
-
-0
-0
-0
-_BadgePirates_Logo
-NG_F.SLK
-
-
-0
-0
-0
-_BadgePirates_Logo
-Soup_B.SILK
-
-
-0
-0
-0
-_BadgePirates_Logo
-Soup_F.SILK
-
-
-0
-0
-0
-_BadgePirates_Logo
-n0rc_B.Cu
-
-
-0
-0
-0
-_BadgePirates_Logo
-n0rc_B.SLK
-
-
-0
-0
-0
-_BadgePirates_Logo
-n0rc_F.SLK
-
-
-0
-0
-0
-_BadgePirates_Logo
-n0rc_letters_B.Cu
-
-
-0
-0
-0
-_BadgePirates_Logo
-pecord_B.Cu
-
-
-0
-0
-0
-_BadgePirates_Logo
-pecord_B.SLK
-
-
-0
-0
-0
-_BadgePirates_Logo
-pecord_F.SLK
-
-
-0
-0
-0
-_BadgePirates_Logo
-rixon_B.Cu
-
-
-0
-0
-0
-_BadgePirates_Logo
-rixon_B.SLK
-
-
-0
-0
-0
-_BadgePirates_Logo
-rixon_F.SLK
-
-
-0
-0
-0
-_BadgePirates_Logo
-shi%%y_B.SLK
-
-
-0
-0
-0
-_BadgePirates_Logo
-shi%%y_F.SLK
 
 
 0
